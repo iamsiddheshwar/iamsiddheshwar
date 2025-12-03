@@ -30,13 +30,6 @@ Currently pursuing my **B.Sc in Computer Science (2nd Year)** from **Latur**, an
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsiddheshwar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddheshwar&layout=compact&theme=tokyonight)
-
----
 
 ### 🌐 Let's Connect
 
