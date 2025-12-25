@@ -4,7 +4,7 @@
 
 ---
 
-I'm a passionate tech explorer with a deep interest in **Cloud Computing**, **Computer Networks**, and development. 
+I'm a passionate tech explorer with a deep interest in **Cloud Computing**, **Computer Networks**, and development.
 Currently pursuing my **B.Sc in Computer Science (2nd Year)** from **Latur**, and focusing on gaining expertise in **AWS**.
 
 ---
