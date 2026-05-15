@@ -19,7 +19,7 @@ Currently pursuing my **B.Sc in Computer Science (3 rd Year)** from **Latur**, a
 
 ---
 
-### 🧰 Languages & Tools:
+### 🧰 Languages:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
