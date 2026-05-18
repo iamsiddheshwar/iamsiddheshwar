@@ -4,8 +4,8 @@
 
 ---
 
-I'm a passionate tech explorer with a deep interest in **Cloud Computing**, **Computer Networks**, and development.
-Currently pursuing my **B.Sc in Computer Science (3 rd Year)** from **Latur**, and focusing on gaining expertise in **AWS** and **Devops**.
+i am Passionate about Cloud Computing, DevOps, Linux, and Infrastructure Automation. 
+Currently pursuing a B.Sc. in Computer Science in my third Year from Latur and building hands-on projects and practicals using AWS, Terraform, Git, and Linux.
 
 ---
 
