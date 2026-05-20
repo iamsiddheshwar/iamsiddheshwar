@@ -33,12 +33,6 @@ Currently pursuing a B.Sc. in Computer Science (3rd Year) from Latur and buildin
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iamsiddheshwar&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 <a href="https://https://www.linkedin.com/in/siddheshwar-shinde-90b73a353//" target="blank">
