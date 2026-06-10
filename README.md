@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddheshwar</h1>
+<h1 align="center">Hello 👋, I'm Siddheshwar</h1>
 
 <h3 align="center">
 🚀 DevOps & Cloud Enthusiastic
@@ -80,7 +80,7 @@ Skilled in AWS Cloud, Linux, Docker, Terraform, Kubernetes.
 <li>☁️ Strong experience with AWS Cloud Infrastructure</li>
 <li>🐳 Hands-on with Docker & Kubernetes</li>
 <li>🛠️ Skilled in Terraform & Infrastructure Automation</li>
-<li>🔍 Experties in python programing</li>
+<li>🔍 Getting experties in python programing</li>
 </ul>
 
 ---
