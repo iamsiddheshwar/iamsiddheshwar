@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-BUILD • DEPLOY • AUTOMATE • SECURE • SCALE
+Build • Deploy • Automate • Secure • Scale
 </p>
 
 <p align="center">
