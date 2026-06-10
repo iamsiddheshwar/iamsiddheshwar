@@ -30,21 +30,15 @@ width="220"
 
 <h2>Siddheshwar Shinde</h2>
 
-<p>
-💼 <b>DevOps & Cloud Enthusiastic</b>
-</p>
+<h3>🎯 Current Focus</h3>
 
-<p>
-☁️ AWS | Linux | GitHub 
-</p>
+☁️ AWS Networking & Security
 
-<p>
-🐳 Docker | Kubernetes | Terraform
-</p>
+🏗️ Infrastructure as Code with Terraform
 
-<p>
-🛠️ Python | Ansible | Github Actions
-</p>
+🐳 Docker & Kubernetes
+
+⚡ CI/CD with GitHub Actions
 
 <p>
 📍 Latur, India
