@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-AWS • Kubernetes • Docker • GitHub Actions • Jenkins • Terraform 
+BUILD • DEPLOY • AUTOMATE • SECURE • SCALE
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ width="220"
 </p>
 
 <p>
-🛠️ Linux | Ansible | Github Actions
+🛠️ Python | Ansible | Github Actions
 </p>
 
 <p>
