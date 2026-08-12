@@ -92,34 +92,6 @@ Skilled in AWS Cloud, Linux, Docker, Terraform, Kubernetes.
 </p>
 ---
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-
-<img 
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamsiddheshwar&show_icons=true&theme=tokyonight&hide_border=true"
-height="170"
-/>
-
-<img 
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamsiddheshwar&layout=compact&theme=tokyonight&hide_border=true"
-height="170"
-/>
-
-</p>
-
----
-
-<h2>🔥 GitHub Streak</h2>
-
-<p align="center">
-<img 
-src="https://streak-stats.demolab.com?user=iamsiddheshwar&theme=tokyonight&hide_border=true" 
-/>
-</p>
-
----
-
 </td>
 </tr>
 </table>
