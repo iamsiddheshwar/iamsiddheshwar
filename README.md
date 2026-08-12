@@ -43,6 +43,25 @@ width="220"
 <p>
 📍 Latur, India
 </p>
+<h2>🌐 Connect With Me</h2>
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shindesiddheshwar/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="siddheshwar7796@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=iamsiddheshwar&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</td>
+
+<td width="65%" valign="top">
 --- 
 <br>
 
@@ -73,25 +92,7 @@ Skilled in AWS Cloud, Linux, Docker, Terraform, Kubernetes.
   <img src="https://skillicons.dev/icons?i=aws,terraform,git,github,linux,bash,vscode,docker,kubernetes" />
 </p>
 ---
-<h2>🌐 Connect With Me</h2>
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/shindesiddheshwar/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="siddheshwar7796@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=minutemailer&logoColor=white"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=iamsiddheshwar&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</td>
-
-<td width="65%" valign="top">
 </td>
 </tr>
 </table>
