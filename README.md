@@ -30,8 +30,6 @@ width="220"
 
 <br><br>
 
-<h2>Siddheshwar Shinde</h2>
-
 <hr>
 
 <h3>🎯 Current Focus</h3>
